@@ -12,3 +12,5 @@ This repository is for educational purposes and hands-on practice with OpenAI te
 2. Install dependencies
 3. Add your OpenAI API key
 4. Run the examples
+
+hello from cto.new
